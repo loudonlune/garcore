@@ -10,7 +10,7 @@ http://completegar.com/
 
 # Downloads
 
-Binaries for GarCore (A0.1 Build 1): http://completegar.com/work/GarCore/GarCore-1.8.9-A0.1_1.jar
+Fresh binaries for GarCore can be found here: http://completegar.com:8080/job/GarCore/
 
 # Modpacks
 You are allowed to use this in modpacks, along with all the mods I create with it.
