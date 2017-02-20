@@ -1,0 +1,16 @@
+[
+{
+  "modid": "garcore",
+  "name": "GarCore",
+  "description": "The library that all my mods rely on. It contains several small utilities to help me make content like renderers, item and block registers, an improved world generation system, etc...",
+  "version": "A0.1",
+  "mcversion": "1.7.10",
+  "url": "http://completegar.com/",
+  "updateUrl": "",
+  "authorList": ["loudonlune", "IDKMINECRAFT2000"],
+  "credits": "Everyone that helped me I guess?",
+  "logoFile": "gclogo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
